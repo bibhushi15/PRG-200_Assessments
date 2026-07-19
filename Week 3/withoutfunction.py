@@ -1,0 +1,9 @@
+exchange_rate = 158.58
+USD1 = 5
+USD2 = 50
+USD3 = 500
+USD4 = 5000
+print(f"{USD1} USD = {USD1 * exchange_rate: .2f} NPR")
+print(f"{USD2} USD = {USD2 * exchange_rate: .2f} NPR")
+print(f"{USD3} USD = {USD3 * exchange_rate: .2f} NPR")
+print(f"{USD4} USD = {USD4 * exchange_rate: .2f} NPR")
